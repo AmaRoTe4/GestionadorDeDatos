@@ -1,0 +1,14 @@
+{
+  "name": "gestion-de-csv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "use": "node index.js"
+  },
+  "dependencies": {
+    "mysql2": "3.6.0",
+    "node": "20.4.0"
+  }
+}

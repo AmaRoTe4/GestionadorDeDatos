@@ -1,0 +1,35 @@
+equipo:
+	id
+	nombre
+
+partido:
+	id
+	fecha
+	id_equipo_local
+	id_equipo_visitante
+	gol local
+	gol visitante
+	neutralidad
+	id_pais_donde se jugo
+	id_ciudad_donde se jugo
+	
+torneos:
+	id:
+	nombre:
+	
+paices:
+	id
+	nombre
+
+ciudad:
+	id
+	nombre
+	id_pais
+
+paices donde se juega los torneos:
+	id pais
+	id torneo
+	
+ciudad donde se juega los torneos:
+	id ciudad
+	id torneo
